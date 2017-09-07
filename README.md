@@ -5,7 +5,7 @@ This guide will walk you through deploying a PHP application on [Deis Workflow][
 ## Usage
 
 ```console
-$ git clone https://github.com/deis/example-php.git
+$ git clone https://github.com/deisthree/example-php.git
 $ cd example-php
 $ deis create
 Creating Application... done, created zanier-zeppelin
@@ -67,8 +67,8 @@ Release v2 on zanier-zeppelin-web-2969858146-wv4ss
 
 ## Additional Resources
 
-* [GitHub Project](https://github.com/deis/workflow)
+* [GitHub Project](https://github.com/deisthree/workflow)
 * [Documentation](https://deis.com/docs/workflow/)
 * [Blog](https://deis.com/blog/)
 
-[Deis Workflow]: https://github.com/deis/workflow#readme
+[Deis Workflow]: https://github.com/deisthree/workflow#readme

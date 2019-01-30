@@ -3,12 +3,12 @@
     "name": "deis/example-php",
     "license": "Apache-2.0",
     "version": "1.0.1",
-    "homepage": "https://github.com/deisthree/example-php",
+    "homepage": "https://github.com/teamhephy/example-php",
     "require": {
         "php": "~7.0",
         "slim/slim": "~3.5"
     },
     "require-dev": {
-        "heroku/heroku-buildpack-php": "v109"
+        "heroku/heroku-buildpack-php": "v149"
     }
 }

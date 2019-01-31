@@ -62,6 +62,10 @@ To learn more, use 'deis help' or visit https://deis.com/
 
 To ssh://deis-builder.deis.rocks:2222/phptest.git
  * [new branch]      master -> master
+
+ $ curl http://phptest.deis.rocks
+ Powered by Deis
+ Release v3 on phptest-web-766c6464dc-hf8xw
 ```
 
 ## Considerations

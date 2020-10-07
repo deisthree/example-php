@@ -9,6 +9,6 @@
         "slim/slim": "~3.5"
     },
     "require-dev": {
-        "heroku/heroku-buildpack-php": "v149"
+        "heroku/heroku-buildpack-php": "v180"
     }
 }
